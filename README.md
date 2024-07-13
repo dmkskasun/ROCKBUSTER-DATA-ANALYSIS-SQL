@@ -5,4 +5,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have  stores aroun
 Tools Used: PostgreSQl, Tableau
 URL to Tableau Public : https://public.tableau.com/app/profile/kasun.daundasekara/viz/ROCKBUSTER_17122770617050/Story1
 
+![image](https://github.com/user-attachments/assets/cb3b4aa4-a1c4-4dc3-9707-50e8890156a6)
+
+
 
